@@ -1,14 +1,14 @@
 [gd_scene load_steps=10 format=4 uid="uid://bfsev70ygu2bd"]
 
 [ext_resource type="TileSet" uid="uid://dt3v8uqssa0rh" path="res://Tilesets/game_tile_set.tres" id="1_3sr8u"]
-[ext_resource type="PackedScene" uid="uid://bqptiypukvx66" path="res://scenes/characters/player.tscn" id="2_xpu3d"]
-[ext_resource type="PackedScene" uid="uid://432fshye6y6u" path="res://scenes/ui/game_screen.tscn" id="3_xpu3d"]
-[ext_resource type="PackedScene" uid="uid://dlio3kdexnnky" path="res://scenes/collectables/corn_harvest.tscn" id="4_c2yua"]
-[ext_resource type="PackedScene" uid="uid://bmf17smhlsugl" path="res://scenes/collectables/egg.tscn" id="5_e2iwo"]
-[ext_resource type="PackedScene" uid="uid://ca558r6jghsvr" path="res://scenes/collectables/log.tscn" id="6_8cqc4"]
-[ext_resource type="PackedScene" uid="uid://dihugxu44f4ei" path="res://scenes/collectables/milk_bottle.tscn" id="7_pq5l2"]
-[ext_resource type="PackedScene" uid="uid://dcwppixbhmhf5" path="res://scenes/collectables/stone.tscn" id="8_83et0"]
-[ext_resource type="PackedScene" uid="uid://c58gh0he66kps" path="res://scenes/collectables/tomato_harvest.tscn" id="9_ejaeq"]
+[ext_resource type="PackedScene" uid="uid://bqptiypukvx66" path="res://Scenes/Characters/player.tscn" id="2_xpu3d"]
+[ext_resource type="PackedScene" uid="uid://432fshye6y6u" path="res://Scenes/ui/game_screen.tscn" id="3_xpu3d"]
+[ext_resource type="PackedScene" uid="uid://dlio3kdexnnky" path="res://Scenes/collectables/corn_harvest.tscn" id="4_c2yua"]
+[ext_resource type="PackedScene" uid="uid://bmf17smhlsugl" path="res://Scenes/collectables/egg.tscn" id="5_e2iwo"]
+[ext_resource type="PackedScene" uid="uid://ca558r6jghsvr" path="res://Scenes/collectables/log.tscn" id="6_8cqc4"]
+[ext_resource type="PackedScene" uid="uid://dihugxu44f4ei" path="res://Scenes/collectables/milk_bottle.tscn" id="7_pq5l2"]
+[ext_resource type="PackedScene" uid="uid://dcwppixbhmhf5" path="res://Scenes/collectables/stone.tscn" id="8_83et0"]
+[ext_resource type="PackedScene" uid="uid://c58gh0he66kps" path="res://Scenes/collectables/tomato_harvest.tscn" id="9_ejaeq"]
 
 [node name="TestSceneTilemap" type="Node2D"]
 y_sort_enabled = true

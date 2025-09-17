@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://2qanbjegmg1a"
-path="res://.godot/imported/pixelFont-7-8x14-sproutLands.ttf-a5d3d0ebc981e7e7b1f52d18d670c7cc.fontdata"
+path="res://.godot/imported/pixelFont-7-8x14-sproutLands.ttf-ff3ff20481cdf9425b14608d796810a9.fontdata"
 
 [deps]
 
-source_file="res://assets/ui/fonts/pixelFont-7-8x14-sproutLands.ttf"
-dest_files=["res://.godot/imported/pixelFont-7-8x14-sproutLands.ttf-a5d3d0ebc981e7e7b1f52d18d670c7cc.fontdata"]
+source_file="res://Assets/ui/fonts/pixelFont-7-8x14-sproutLands.ttf"
+dest_files=["res://.godot/imported/pixelFont-7-8x14-sproutLands.ttf-ff3ff20481cdf9425b14608d796810a9.fontdata"]
 
 [params]
 
@@ -21,6 +21,7 @@ msdf_pixel_range=8
 msdf_size=48
 allow_system_fallback=true
 force_autohinter=false
+modulate_color_glyphs=false
 hinting=1
 subpixel_positioning=4
 keep_rounding_remainders=true

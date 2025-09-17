@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://dgqh62p0cd7gk"
-path="res://.godot/imported/zx_palm.ttf-67c1ec1292f3f2797464a46a4709de07.fontdata"
+path="res://.godot/imported/zx_palm.ttf-d0cd0a716b90e3e7af97ebb093431baf.fontdata"
 
 [deps]
 
-source_file="res://assets/ui/fonts/zx_palm.ttf"
-dest_files=["res://.godot/imported/zx_palm.ttf-67c1ec1292f3f2797464a46a4709de07.fontdata"]
+source_file="res://Assets/ui/fonts/zx_palm.ttf"
+dest_files=["res://.godot/imported/zx_palm.ttf-d0cd0a716b90e3e7af97ebb093431baf.fontdata"]
 
 [params]
 
@@ -21,6 +21,7 @@ msdf_pixel_range=8
 msdf_size=48
 allow_system_fallback=true
 force_autohinter=false
+modulate_color_glyphs=false
 hinting=1
 subpixel_positioning=4
 keep_rounding_remainders=true

@@ -1,8 +1,8 @@
 [gd_resource type="TileSet" load_steps=7 format=3 uid="uid://durr6htbts0ul"]
 
-[ext_resource type="Texture2D" uid="uid://ob6ebb8ldfn3" path="res://assets/tilesets/wooden_house_walls_tileset.png" id="1_uaqb7"]
-[ext_resource type="Texture2D" uid="uid://cq1aeteoma8o5" path="res://assets/objects/basic_furniture.png" id="2_yxgbh"]
-[ext_resource type="PackedScene" uid="uid://ciqikfyjjwver" path="res://scenes/houses/door.tscn" id="3_c4aqv"]
+[ext_resource type="Texture2D" uid="uid://ob6ebb8ldfn3" path="res://Assets/Tilesets/wooden_house_walls_tileset.png" id="1_uaqb7"]
+[ext_resource type="Texture2D" uid="uid://cq1aeteoma8o5" path="res://Assets/Objects/Basic_Furniture.png" id="2_yxgbh"]
+[ext_resource type="PackedScene" uid="uid://ciqikfyjjwver" path="res://Scenes/houses/door.tscn" id="3_c4aqv"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_yxgbh"]
 texture = ExtResource("1_uaqb7")
